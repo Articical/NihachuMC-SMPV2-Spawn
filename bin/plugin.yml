@@ -1,0 +1,24 @@
+name: SMPV2
+version: 1.0.0
+author: RyTheFirst
+website: rythefirst.uk
+main: uk.rythefirst.smp2.spawn.Main
+api-version: 1.16
+commands:
+ pvp:
+  description: pvp toggle
+ slots:
+  description: Check reserved slots.
+permissions:
+ v2.mod:
+  description: Allows use of /jmessage reset
+ v2.admin:
+  description: Like v2.mod, but admin.
+ v2.jmessage:
+  description: Allows use of /jmessage set
+ v2.nick:
+  description: Allows use of /cnick set
+ v2.resslot:
+  description: Allows use of reserved slots.
+
+softdepend: [Vault, Luckperms]
