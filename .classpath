@@ -7,7 +7,7 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/rybis/Downloads/Vault.jar"/>
-	<classpathentry kind="lib" path="C:/Users/rybis/Downloads/LuckPerms-Bukkit-5.4.40.jar"/>
-	<classpathentry kind="lib" path="C:/Users/rybis/Downloads/spigot-api-1.18.1-R0.1-20220228.150432-81-shaded.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rybis/Downloads/spigot-api-1.21.4-R0.1-SNAPSHOT-shaded.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rybis/Downloads/LuckPerms-Bukkit-5.4.158.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
